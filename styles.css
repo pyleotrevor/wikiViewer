@@ -1,0 +1,45 @@
+body {
+  background-color: #2b4060;
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+#container {
+  margin-left: 60px;
+  margin-right: 60px;
+  background-color: #2b4060;
+  
+}
+
+#container div {
+  border: solid black 1px;
+  text-align: center;
+  margin-top: 30px;
+  background-color: #aec2e2;
+  color: white;
+  font-size: 
+}
+
+#searcher {
+  color: white;
+  text-align: center;
+}
+
+a {
+   
+    /*color: #0060B6;*/
+    text-decoration: none; 
+}
+
+input[type=text] {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 20px;
+
+}
+
+button {
+  text-align: right;
+}
+
